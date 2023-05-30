@@ -1,5 +1,6 @@
 
-# ✒️ Group Members
+# 🔥 Group Members
+<!-- # 🔥 News✒️ -->
 
 ## Long-term Enrollment
 - If you have solid mathematical foundation and strong programming ability. Welcome to contact me. I hope you are interseted in Machine Learning and Deep Learning Theory, love coding, practical, enthusiastic, have certain psychological ability to resist pressure, have a sense of self-motivation, long-term career planning, and Interested in long-term development in the field of Machine Learning and Artificial Intelligence.

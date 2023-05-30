@@ -10,8 +10,8 @@ main:
     url: "/#-publications"
 
   - title: "Group Members"
-    # url: "/#-group-members"
-    url: "/#about-me"
+    url: "/#-group-members"
+    # url: "/#about-me"
 
   - title: "Academic Services"
     url: "/#-academic-services"
