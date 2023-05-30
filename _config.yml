@@ -8,7 +8,7 @@
 # Site Settings      ############################################
 title                    : "Lei Zhang (张雷)"
 description              : "Associate Professor in Nanjing Normal University (NNU)"
-repository               : "rayeren/rayeren.github.io"
+repository               : "leizhangnjnu/leizhangnjnu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
+  name             : "Lei Zhang (张雷)"
+  avatar           : "images/leizhang.jpg"
+  bio              : "Institute of Information and Control Technologies"
+  location         : "Nanjing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=n1qFlf8AAAAJ"
+  email            : "leizhang@njnu.edu.cn"  # rayeren
+  researchgate     : "https://www.researchgate.net/profile/Lei-Zhang-471"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "leizhangnjnu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : 
+  dblp             : "https://dblp.org/pid/97/8704-130.html"
+  orcid            : "https://orcid.org/0000-0001-8749-7459"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
