@@ -141,6 +141,8 @@
 - Shige Xu: SHEIN
 - Xing Wang: Phoenix Contact
 - Peitian Chen: Shanghai Municipal Tax Service
+
+
 ### 2019
 - Yin Tang: Ph.D. Candidate in Central South University
 - Wenbo Huang: Ph.D. Candidate in Southeast University
@@ -148,13 +150,19 @@
 - Wenbin Gao: Xiaomi
 - Xin Cheng: State Grid of China(Shandong)
 - Weiming Quan: State Grid of China(Anhui)
+
+
 ### 2018
 - Qi Teng: Ph.D. Candidate in Nanjing University
 - Kun Wang: Ph.D. Candidate in Southeast University
 - Zhenyu Wang: Ph.D. Candidate in Nanjing University
 - Jinwei Mao: NARI Group
+
+
 ### 2017
 - Zhihao Zhang: NARI Group
+
+
 ### Undergraduate
 - Zhixiang Wang: Ph.D. in University of Tokyo
 - Shuoyuan Wang: Ph.D. Candidate in University of Macau
