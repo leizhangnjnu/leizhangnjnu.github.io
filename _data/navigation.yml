@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Group Members"
+    url: "/#-group-members"
+
   - title: "Academic Services"
     url: "/#-academic-services"
 
