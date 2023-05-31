@@ -1,5 +1,5 @@
 
-# :busts_in_silhouette: Group Members
+# 👥 Group Members
 <!-- # 🔥 News✒️  (-->
 
 ## Long-term Enrollment
