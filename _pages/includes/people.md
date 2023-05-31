@@ -1,5 +1,5 @@
 
-# 👥 Group Members
+# 👪 Group Members
 <!-- # 🔥 News✒️  (-->
 
 ## Long-term Enrollment
