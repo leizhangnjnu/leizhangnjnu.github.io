@@ -2,9 +2,9 @@
 # 📝 Publications 
 ## 🎙 2023
 
-- ``IEEE TKDE`` [Channel Attention for Sensor-based Activity Recognition: Embedding Features into All Frequencies in DCT Domain](), Xu S, **Zhang L\***, Tang Y, Han C, Wu H, Song A
-- ``IEEE JBHI`` [ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition](), Cheng D, **Zhang L\***, Bu C, Wang X, Wu H, Song A
-- ``IEEE TMC`` [A Collaborative Compression Scheme for Fast Activity Recognition on Mobile Devices Via Global Compression Ratio Decision](), Liang J, **Zhang L\***, Han C, Bu C, Wu H, Song A
+- ``IEEE TKDE`` [Channel Attention for Sensor-based Activity Recognition: Embedding Features into All Frequencies in DCT Domain](https://ieeexplore.ieee.org/abstract/document/10129912/), Xu S, **Zhang L\***, Tang Y, Han C, Wu H, Song A
+- ``IEEE JBHI`` [ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition](https://ieeexplore.ieee.org/abstract/document/10122911), Cheng D, **Zhang L\***, Bu C, Wang X, Wu H, Song A
+- ``IEEE TMC`` [A Collaborative Compression Scheme for Fast Activity Recognition on Mobile Devices Via Global Compression Ratio Decision](https://ieeexplore.ieee.org/abstract/document/10111072), Liang J, **Zhang L\***, Han C, Bu C, Wu H, Song A
 - ``IEEE TIM`` [An Efficient Diverse-branch Convolution Scheme for Sensor-Based Human Activity Recognition](), Han C, **Zhang L\***, Xu S, Wang X, Wu H, Song A
 - ``IEEE TNNLS`` [Diversifying Collaborative Filtering via Graph Spreading Network and Selective Sampling](), Y Fang, H Wu, Y Zhao, **Zhang L\***, S Qin, X Wang
 - `E KBS` [Modeling and predicting user preferences with multiple item attributes for sequential recommendations](), L Xu, J Zeng, W Peng, H Wu, K Yue, H Ding, **Zhang L\***, X Wang 
