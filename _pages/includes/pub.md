@@ -37,10 +37,6 @@
 - ``IEEE Sensors`` [Layer-wise training convolutional neural networks with smaller filters for human activity recognition using wearable sensors](), Y Tang, Q Teng, **Zhang L\***, F Min, J He
 - ``IEEE Sensors`` [The layer-wise training convolutional neural networks using local loss for sensor-based human activity recognition](), Q Teng, K Wang, **Zhang L\***, J He
 
-## 🎙 2019
-- ``IEEE Sensors`` [Attention-based convolutional neural network for weakly labeled human activities’ recognition with wearable sensors](), K Wang, J He, **Zhang L\***
-- ``Physics Letters A`` [Realizing reliable logic and memory function with noise-assisted Schmitt trigger circuits](), **Zhang L\***, W Zheng, F Min, A Song
-
 ## 🎙 Before 2020
 - ``IEEE Sensors`` [Attention-based convolutional neural network for weakly labeled human activities’ recognition with wearable sensors](), K Wang, J He, **Zhang L\***
 - ``IEEE GRSL`` [Using diffusion geometric coordinates for hyperspectral imagery representation](), J He, **Zhang L**, Q Wang, Z Li
