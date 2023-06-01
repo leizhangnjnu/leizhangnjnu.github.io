@@ -1,8 +1,1 @@
-Lei Zhang (张雷) is an Associate Professor with the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, Nanjing Normal University (NNU), leading the his group. 
-
-
-Lei Zhang received the Ph.D. degree from Southeast University in 2011. He was a Research Fellow with IPAM, UCLA, in 2008. He has published 50+ papers in peer-reviewed journals and conferences, e.g., TMC, TSC, TIM, TII, TIE, THMS, and TETCI. 
-
-
-His research interests include machine learning, service computing, IoT, and computer vision.
-
+Lei Zhang (张雷) is an associate professor in the School of Electric and Autumation Engineerning, Nanjing Normal University (NNU) . His research interests mainly lie in machine learning, data mining, human motion recognition, and service computing.He received his B.E. degree from Zhengzhou University in 2001, and M.E. degree from Chinese Academy of Sciences (CAS) in 2004, and doctoral degree from Southeast University respectively. He has published more than 60 technical papers at prominent journals and conferences such as IEEE T-NNLS, IEEE T-TKDE, IEEE T-MC, IEEE T-IE, IEEE T-II, IEEE T-NSM, IEEE T-SC, IEEE T-IM, IEEE T-HMS, IEEE T-ETCI, IEEE JBHI, ACM T-ECS, KBS, PRE, etc. He serves as the reviewer for more than 50 international journals such as ACM T-KDD, ACM T-ECS, IEEE T-NNLS, IEEE T-MC, IEEE T-AI, IEEE T-IE, IEEE T-IP, IEEE T-IM, IEEE T-CDS, IEEE IOT, Pervasive and Mobile Computing, etc., and also the PC member or reviewer of several top-tier conferences such as ICML, AAAI, UbiComp, etc. He received the "Outstanding Reviewing Contribution" from the journal “Signal Processing” and “Chinese Journal of Physics”, respectively.

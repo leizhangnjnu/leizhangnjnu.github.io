@@ -3,9 +3,10 @@
 <!-- # 🔥 News✒️  (-->
 
 ## Long-term Enrollment
-- If you have solid mathematical foundation and strong programming ability. Welcome to contact me. I hope you are interseted in Machine Learning and Deep Learning Theory, love coding, practical, enthusiastic, have certain psychological ability to resist pressure, have a sense of self-motivation, long-term career planning, and Interested in long-term development in the field of Machine Learning and Artificial Intelligence.
+- I mainly study how to design advanced machine learning algorithms using mathematical tools, which can be further applied to computer vision, data mining, and other related fields. I prefer the students who have solid mathematical foundations, strong programming skills, and good English abilities. The experiences in research (e.g. academic competition, publications, extracurricular academic activities, etc.) will be a benefit. I will provide you a full range of effective guidance in algorithm design, coding, experimental verification, paper writing, presentation, etc.
 
 - E-mail：leizhang AT njnu DOT edu DOT cn
+
 
 ------
 ## Research Partners
@@ -138,32 +139,32 @@
 ------
 ## Alumini
 ### 2020
-- Chaolei Han: Ph.D. Candidate in Southeast University
-- Shige Xu: SHEIN
-- Xing Wang: Phoenix Contact
-- Peitian Chen: Shanghai Municipal Tax Service
+- Chaolei Han: 国家奖学金、校级优秀毕业生、校级优秀研究生，Now Ph.D. Candidate in Southeast University，
+- Shige Xu: 阿里、字节跳动、腾讯优图，国家奖学金、校级优秀毕业生、校级优秀研究生，Now at SHEIN
+- Xing Wang: 中国广核集团、Phoenix Contact
+- Peitian Chen: Now at Shanghai Municipal Tax Service
 
 
 ### 2019
-- Yin Tang: Ph.D. Candidate in Central South University
-- Wenbo Huang: Ph.D. Candidate in Southeast University
-- Tianyi Liu: Ph.D. Candidate in Southeast University
-- Wenbin Gao: Xiaomi
-- Xin Cheng: State Grid of China(Shandong)
-- Weiming Quan: State Grid of China(Anhui)
+- Yin Tang: 国家奖学金、校级优秀毕业生、校级优秀研究生，Now Ph.D. Candidate in Central South University
+- Wenbo Huang: 国家奖学金、校级优秀毕业生、校级优秀研究生，Now Ph.D. Candidate in Southeast University
+- Tianyi Liu: 小米，Now Ph.D. Candidate in Southeast University
+- Wenbin Gao: 中兴、南京银行，Now at Xiaomi
+- Xin Cheng: Now at State Grid of China(Shandong)
+- Weiming Quan: Now at State Grid of China(Anhui)
 
 
 ### 2018
-- Qi Teng: Ph.D. Candidate in Nanjing University
-- Kun Wang: Ph.D. Candidate in Southeast University
-- Zhenyu Wang: Ph.D. Candidate in Nanjing University
-- Jinwei Mao: NARI Group
+- Qi Teng: 国家奖学金、校级优秀毕业生、校级优秀研究生，Now Ph.D. Candidate in Nanjing University
+- Kun Wang: 国家奖学金、校级优秀毕业生、校级优秀研究生，Now Ph.D. Candidate in Southeast University
+- Zhenyu Wang: 网易，Now Ph.D. Candidate in Nanjing University
+- Jinwei Mao: Now at NARI Group
 
 
 ### 2017
-- Zhihao Zhang: NARI Group
+- Zhihao Zhang: Now at NARI Group
 
 
 ### Undergraduate
 - Zhixiang Wang: Ph.D. in University of Tokyo
-- Shuoyuan Wang: Ph.D. Candidate in University of Macau
+- Shuoyuan Wang: Now Ph.D. Candidate in University of Macau

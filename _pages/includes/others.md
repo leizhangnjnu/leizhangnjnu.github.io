@@ -13,9 +13,9 @@
 
 
 # 💬 Teaching
-## Undergraduate courses
 - Data Structures and Algorithms (C language)
 - Digital Image Processing
+- Pattern Recognition and  Machine Learning, Deep Learning
 
 
 
